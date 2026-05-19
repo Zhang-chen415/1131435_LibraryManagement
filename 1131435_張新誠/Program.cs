@@ -16,7 +16,7 @@ namespace _1131435_張新誠
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmBooks());
         }
     }
 }
